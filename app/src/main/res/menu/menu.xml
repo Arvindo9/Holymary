@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/latest_updates"
+        android:orderInCategory="100"
+        android:title="Latest Updates"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/examination_cell"
+        android:orderInCategory="100"
+        android:title="Examination Cell"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/placement_cell"
+        android:orderInCategory="100"
+        android:title="Placement Cell"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sports"
+        android:orderInCategory="100"
+        android:title="sports"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/library"
+        android:orderInCategory="100"
+        android:title="Library"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/scholarship"
+        android:orderInCategory="100"
+        android:title="Scholarship"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Training"
+        android:orderInCategory="100"
+        android:title="Library"
+        app:showAsAction="never" />
+</menu>

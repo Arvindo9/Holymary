@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Holymary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login1">Login1</string>
+    <string name="download">Download</string>
+    <string name="submit">Submit</string>
+    <string name="credits">Credits</string>
+    <string name="about_us">About us</string>
+
+    <string name="pass_1">current password : </string>
+    <string name="pass_2">new password     : </string>
+    <string name="pass_3">confirm password : </string>
+    <string name="phone_1">current phone number: </string>
+    <string name="phone_2">new phone number    : </string>
+    <string name="phone_3">confirm phone number: </string>
+
+    <string name="change_pass">Change password</string>
+    <string name="change_phone">Change phone number</string>
+    <string name="download_it">Attached file</string>
+    <string name="dash"> --- </string>
+
+
+    <string name="registration_type">Registration Type</string>
+    <string name="admin">Admin</string>
+    <string name="student">Student</string>
+    <string name="faculty">faculty</string>
+    <string name="parents">Parents</string>
+    <string name="others">Others</string>
+    <string name="Branch">Branch</string>
+    <string name="ECE">ECE</string>
+    <string name="EEE">EEE</string>
+    <string name="CSE">CSE</string>
+    <string name="IT">IT</string>
+    <string name="MEC">MEC</string>
+    <string name="Department">Department</string>
+    <string name="B.Tech">B.Tech</string>
+    <string name="MBA">MBA</string>
+    <string name="Diploma">Diploma</string>
+    <string name="Pharmacy">Pharmacy</string>
+    <string name="College">Select College Name</string>
+    <string name="Hits">HITS</string>
+    <string name="Hit">HIT</string>
+    <string name="Hitms">HITMS</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="user_name">NAME</string>
+    <string name="user_id">User ID</string>
+
+    <string name="notice">Notice</string>
+    <string name="class_">Class</string>
+    <string name="upload">Upload</string>
+    <string name="post">Post</string>
+
+    <string name="post_home">Home Post</string>
+    <string name="post_notice">Notice Post</string>
+    <string name="post_class">Class Post</string>
+
+    <string name="Error_Msg">Plase Select</string>
+
+    <string name="camere_avli">"Sorry! now camera available this time"</string>
+
+    <string-array name="CollegeArray">
+        <item>@string/College</item>
+        <item>@string/Hits</item>
+        <item>@string/Hitms</item>
+        <item>@string/Hit</item>
+
+    </string-array>
+
+    <string-array name="RegisterTypesArray">
+        <item>@string/registration_type</item>
+        <item>@string/admin</item>
+        <item>@string/student</item>
+        <item>@string/faculty</item>
+        <item>@string/parents</item>
+        <item>@string/others</item>
+
+    </string-array>
+    <string-array name="student_Branch_Array">
+        <item>@string/ECE</item>
+        <item>@string/EEE</item>
+        <item>@string/CSE</item>
+        <item>@string/IT</item>
+        <item>@string/MEC</item>
+    </string-array>
+    <string-array name="student_depart_Array">
+        <item>@string/Department</item>
+        <item>@string/B.Tech</item>
+        <item>@string/MBA</item>
+        <item>@string/Diploma</item>
+        <item>@string/Pharmacy</item>
+
+    </string-array>
+
+    <string name="new_updates">NEW UPDATES</string>
+    <string name="examination">EXAMINATION</string>
+    <string name="magazine">MAGAZINE</string>
+    <string name="sports">SPORTS</string>
+    <string name="library">LIBRARY</string>
+    <string name="scholar">SCHOLARSHIP</string>
+    <string name="training">TRAINING</string>
+    <string name="higer_ed">HIGHER EDUCATION</string>
+    <string name="accounts">ACCOUNTS</string>
+    <string name="placement">PLACEMENTS</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="c1">Offered by</string>
+    <string name="c2">Steinmetz ILS</string>
+    <string name="c3">Project planning, designing, tool selection, testing</string>
+    <string name="c4">Kolichelama Sucharitha, Arvindo Mondal, Meenumol Varghese, Sushant
+        Sonawane</string>
+    <string name="c5">Android backend, Android frontend and PHP programmer, database design in
+        Server side and client side, coding and testing</string>
+    <string name="c6">Arvindo Mondal</string>
+    <string name="c7">Android frontend designer and Android backend programmer</string>
+    <string name="c8">Kolichelama Sucharitha</string>
+    <string name="c9">Android frontend designer, Android backend programmer,
+        project structure designer </string>
+    <string name="c10">Meenumol Varghese</string>
+    <string name="c11">Database design, Android Libraries</string>
+    <string name="c12">Sushant Sonawane</string>
+
+</resources>
